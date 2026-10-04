@@ -1,0 +1,16 @@
+invoice_id,vendor,amount,status,message
+INV-2001,ABC Ltd,85000.0,PENDING,Amount is less than 100000
+INV-2002,XYZ Corp,142500.0,PENDING,Amount is greater than 100000
+INV-2003,Nova Inc,650000.0,PENDING,Amount is greater than 100000
+INV-2004,Missing,120000.0,PENDING,Amount is greater than 100000
+INV-2005,Delta Ltd,Missing,PENDING,Missing amount
+INV-2006,Apex Supplies,TBD,PENDING,Invalid amount
+INV-2007,Falcon Tech,300000.0,APPROVED,Amount is greater than 100000
+INV-2008,Missing,45000.0,APPROVED,Amount is less than 100000
+INV-2009,Horizon Foods,100000.0,PENDING,Amount is less than 100000
+INV-2010,Jupiter Steel,500000.0,PENDING,Amount is greater than 100000
+INV-2011,Lotus Packaging,72000.0,REVIEW,Amount is less than 100000
+INV-2012,Kaveri Chemicals,975000.0,PENDING,Amount is greater than 100000
+INV-2013,Bright Logistics,18500.5,PENDING,Amount is less than 100000
+INV-2014,Global Office Mart,210000.0,PENDING,Amount is greater than 100000
+INV-2015,Indigo Print Works,33000.0,PENDING,Amount is less than 100000
